@@ -21,7 +21,7 @@ Supported arguments:
     - email
 -->
 {% include cv-contact.html %}
-<center><font color = grey size = 4>Wechat: Qukoyk</font></center>
+<center><font color = grey size = 3>Wechat: Qukoyk</font></center>
 
 ## Education
 
