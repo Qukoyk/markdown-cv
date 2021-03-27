@@ -74,7 +74,7 @@ _The 78th Annual Meeting of the Japanese Society ofr Animal Psychology_<br>
 
 
 
-## Experience
+<!-- ## Experience
 
 ### **Microsoft Research** `2020.5 -`
 
@@ -93,7 +93,7 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 ### **AsiaInfo** `2015.6 - 2015.8`
 
 _Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+Worked on server-side web applications and server deployment tools. -->
 
 <!-- ## Mentoring
 
