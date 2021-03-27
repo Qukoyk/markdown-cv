@@ -7,7 +7,6 @@ email:
 homepage:
   url: https://home.hiroshima-u.ac.jp/quruoheng
   text: https://home.hiroshima-u.ac.jp/quruoheng
-<br>
 phone:
   (+86) 186-1819-8201
   (+81) 080-8716-8113
@@ -81,13 +80,3 @@ QTA, **Fundamental Laboratory Work in Behavioral Sciences** `2017 - Now` <br>
 QTA, **Practicum in Behavioral Sciences** `2017 - Now` <br>
 QTA, **Laboratory Work in Psychology A** `2017 - Now` <br>
 Teaching Fellow `Graduate School of Integrated Arts and Sciences, 2020 - Now` <br>
-
-
-<!-- ## Service
-
-Reviewer `CHI 2021`
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020` -->
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
