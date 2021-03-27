@@ -1,15 +1,18 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Ruoheng "Qukoyk" Qu
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:quruoheng@hiroshima-u.ac.jp
+  text: quruoheng@hiroshima-u.ac.jp
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://home.hiroshima-u.ac.jp/quruoheng
+  text: https://home.hiroshima-u.ac.jp/quruoheng
+phone:
+  (+86) 186-1819-8201
+  (+81) 080-8716-8113
 ---
 
-# Wode **Ni**
+# Ruoheng **Qu**
 
 <!--
 include contact information from the front matter
@@ -23,79 +26,53 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Hiroshima University** `2019.4 - Now`
 
 ```
-Pittsburgh, PA
+Hiroshima, Japan
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- Ph.D. Student in Arts and Sciences (Physiological Psychology)
+- Advised by [Shogo Sakata](https://seeds.office.hiroshima-u.ac.jp/profile/ja.33c6d814e460c277520e17560c007669.html)
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **Hiroshima University** `2017.4 - 2019.3`
 
 ```
-Carlisle, PA
+Hiroshima, Japan
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- Master of Arts and Science, 
+- Risky Decision-Making, semi-Gambling & Gambling-like Activities
 
 ## Publications
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+### [**The Effects of Minimum Rewards’ Experience Order in Rats Gambling Task**](https://ir.lib.hiroshima-u.ac.jp/files/public/4/48878/20200327111706862738/StudiesInHumanSciences_14_1.pdf)
+**Ruoheng Qu** & Shogo Sakata.<br> 
+_Bulletin of the Graduate School of Integrated Arts and Sciences, Hiroshima University. I, Studies in human sciences, 14, 1-12._<br>
+[[PDF](https://ir.lib.hiroshima-u.ac.jp/files/public/4/48878/20200327111706862738/StudiesInHumanSciences_14_1.pdf)]
+[[www](http://doi.org/10.15027/48878)]
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+## Meetings
 
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
+### [**A marker-less rodent pose estimation tool after DeepLabCut**]
 
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
+**Ruoheng Qu**, Yue Nan, Yuto Kimura, Shogo Sakata.<br>
+_20th Biennial Meeting of the International Society for Comparative Psychology._<br>
 
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({ page.homepage.url }}/aassets/plateau-19-presentation.pdf)]
 
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
+### [**Existence of minimum rewards in rats gambling task**](https://doi.org/10.2502/janip.69.3.4)
 
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
+**Ruoheng Qu** & Shogo Sakata.<br>
+_The 79th Annual Meeting of the Japanese Society for Animal Psychology._<br>
+[[PDF](https://www.jstage.jst.go.jp/article/janip/69/3/69_69.3.4/_pdf/-char/en)]
 
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+### [**A preliminary study of experience order in rats semi-gambling task**](https://doi.org/10.2502/janip.68.2.5)
 
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+**Ruoheng Qu** & Shogo Sakata.<br>
+_The 78th Annual Meeting of the Japanese Society ofr Animal Psychology_<br>
+[[PDF](https://www.jstage.jst.go.jp/article/janip/68/2/68_68.2.5/_pdf/-char/en)]
 
----
 
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
 
 ## Experience
 
@@ -118,13 +95,13 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
-## Mentoring
+<!-- ## Mentoring
 
 Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
 Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br> -->
 
-## Honors & Awards
+<!-- ## Honors & Awards
 
 CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
 Phi Beta Kappa `Dickinson, 2018` <br>
@@ -135,22 +112,24 @@ Computer Science Departmental Honors `Dickinson, 2016` <br>
 Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
 Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+John Montgomery Scholarship `Dickinson, 2013` <br> -->
 
 ---
 
 ## Teaching
 
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+Qualified Teaching Assistant (QTA), **Communication Ⅰ A** `2017 - 2018` <br>
+QTA, **Communication Ⅱ A** `2017 - 2018` <br>
+QTA, **Fundamental Laboratory Work in Behavioral Sciences** `2017 - Now` <br>
+QTA, **Practicum in Behavioral Sciences** `2017 - Now` <br>
+QTA, **Laboratory Work in Psychology A** `2017 - Now` <br>
+Teaching Fellow `Graduate School of Integrated Arts and Sciences, 2020 - Now` <br>
 
 
-## Service
+<!-- ## Service
 
 Reviewer `CHI 2021`
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
+Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020` -->
 
 <!-- ### Footer
 
