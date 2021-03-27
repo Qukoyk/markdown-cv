@@ -20,8 +20,8 @@ Supported arguments:
     - phone
     - email
 -->
-<center>Wechat: Qukoyk</center>
 {% include cv-contact.html %}
+<center>Wechat: Qukoyk</center>
 
 ## Education
 
