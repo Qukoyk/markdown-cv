@@ -11,8 +11,8 @@ homepage:
 phone:
   (+86) 186-1819-8201
   (+81) 080-8716-8113
-Wechat:
-  Qukoyk
+# Wechat:
+#   Qukoyk
 ---
 
 # Ruoheng **Qu**
@@ -57,7 +57,7 @@ _Bulletin of the Graduate School of Integrated Arts and Sciences, Hiroshima Univ
 
 ## Meetings
 
-### [Reserved] **A marker-less rodent pose estimation tool after DeepLabCut**
+### [Reserved]**A marker-less rodent pose estimation tool after DeepLabCut**
 
 **Ruoheng Qu**, Yue Nan, Yuto Kimura, Shogo Sakata.<br>
 _20th Biennial Meeting of the International Society for Comparative Psychology._<br>
@@ -75,6 +75,8 @@ _The 79th Annual Meeting of the Japanese Society for Animal Psychology._<br>
 _The 78th Annual Meeting of the Japanese Society ofr Animal Psychology_<br>
 [[PDF](https://www.jstage.jst.go.jp/article/janip/68/2/68_68.2.5/_pdf/-char/en)]
 
+---
+
 ## Teaching
 
 Qualified Teaching Assistant (QTA), **Communication Ⅰ A** `2017 - 2018` <br>
@@ -83,3 +85,4 @@ QTA, **Fundamental Laboratory Work in Behavioral Sciences** `2017 - Now` <br>
 QTA, **Practicum in Behavioral Sciences** `2017 - Now` <br>
 QTA, **Laboratory Work in Psychology A** `2017 - Now` <br>
 Teaching Fellow `Graduate School of Integrated Arts and Sciences, 2020 - Now` <br>
+
