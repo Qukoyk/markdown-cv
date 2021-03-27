@@ -11,8 +11,6 @@ homepage:
 phone:
   (+86) 186-1819-8201
   (+81) 080-8716-8113
-# Wechat:
-#   Qukoyk
 ---
 
 # Ruoheng **Qu**
@@ -75,8 +73,6 @@ _The 79th Annual Meeting of the Japanese Society for Animal Psychology._<br>
 _The 78th Annual Meeting of the Japanese Society ofr Animal Psychology_<br>
 [[PDF](https://www.jstage.jst.go.jp/article/janip/68/2/68_68.2.5/_pdf/-char/en)]
 
----
-
 ## Teaching
 
 Qualified Teaching Assistant (QTA), **Communication Ⅰ A** `2017 - 2018` <br>
@@ -86,3 +82,12 @@ QTA, **Practicum in Behavioral Sciences** `2017 - Now` <br>
 QTA, **Laboratory Work in Psychology A** `2017 - Now` <br>
 Teaching Fellow `Graduate School of Integrated Arts and Sciences, 2020 - Now` <br>
 
+
+<!-- ## Service
+
+Reviewer `CHI 2021`
+Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020` -->
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
