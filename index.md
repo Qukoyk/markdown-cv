@@ -40,7 +40,7 @@ Hiroshima, Japan
 Hiroshima, Japan
 ```
 
-- Master of Arts and Science (Physiological Psychology)
+- Master of Arts and Sciences (Physiological Psychology)
 - Risky Decision-Making, semi-Gambling & Gambling-like Activities
 
 ## Skills
