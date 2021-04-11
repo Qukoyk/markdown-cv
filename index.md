@@ -32,7 +32,7 @@ Hiroshima, Japan
 ```
 
 - Ph.D. Student in Arts and Sciences (Physiological Psychology)
-- Risky Decision-Making, Feedback-Related Nagativity(FRN), Rodents Pose-Estimation
+- Risky Decision-Making, Feedback-Related Negativity(FRN), Rodents Pose-Estimation
 - Co-Advised by [Shogo Sakata](https://seeds.office.hiroshima-u.ac.jp/profile/en.33c6d814e460c277520e17560c007669.html), [Takeshi Yamazaki](https://seeds.office.hiroshima-u.ac.jp/profile/en.56cdb48fbf8dc6cd520e17560c007669.html), [Yasuhiro Ishihara](https://seeds.office.hiroshima-u.ac.jp/profile/en.6f1fa9a7faea635c520e17560c007669.html) and [Atsunori Ariga](https://seeds.office.hiroshima-u.ac.jp/profile/en.f6a0937964e815d9520e17560c007669.html)
 
 ### **Hiroshima University** `2017.4 - 2019.3`
