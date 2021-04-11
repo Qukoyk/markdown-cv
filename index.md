@@ -70,7 +70,7 @@ _Bulletin of the Graduate School of Integrated Arts and Sciences, Hiroshima Univ
 
 ### [Reserved] **A marker-less rodent pose estimation tool after DeepLabCut**
 
-**Ruoheng Qu**, Yue Nan, Yuto Kimura, Shogo Sakata. (2020)<br>
+**Ruoheng Qu**, Yue Nan, Yuto Kimura, Shogo Sakata. (2020) [Delayed to 2021]<br>
 _20th Biennial Meeting of the International Society for Comparative Psychology_<br>
 
 
