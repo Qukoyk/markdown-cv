@@ -83,7 +83,7 @@ _The 79th Annual Meeting of the Japanese Society for Animal Psychology_<br>
 ### [**A preliminary study of experience order in rats semi-gambling task**](https://doi.org/10.2502/janip.68.2.5)
 
 **Ruoheng Qu** & Shogo Sakata. (2018)<br>
-_The 78th Annual Meeting of the Japanese Society ofr Animal Psychology_<br>
+_The 78th Annual Meeting of the Japanese Society for Animal Psychology_<br>
 [[PDF](https://www.jstage.jst.go.jp/article/janip/68/2/68_68.2.5/_pdf/-char/en)]
 
 ## Teaching
