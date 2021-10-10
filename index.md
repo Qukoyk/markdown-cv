@@ -66,6 +66,17 @@ _Bulletin of the Graduate School of Integrated Arts and Sciences, Hiroshima Univ
 [[PDF](https://ir.lib.hiroshima-u.ac.jp/files/public/4/48878/20200327111706862738/StudiesInHumanSciences_14_1.pdf)]
 [[www](http://doi.org/10.15027/48878)]
 
+## Experience
+
+### **Noldus Information Technology** `2021.10 -`
+
+```
+Hiroshima, Japan
+```
+
+_Technical Support Engineer_<br>
+Give pre-sale advice, diagnose and troubleshoot software and hardware problems and help customers install devices and programs.
+
 ## Meetings
 
 ### [Reserved] **A marker-less rodent pose estimation tool after DeepLabCut**
