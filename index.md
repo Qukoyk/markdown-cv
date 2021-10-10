@@ -71,11 +71,14 @@ _Bulletin of the Graduate School of Integrated Arts and Sciences, Hiroshima Univ
 ### **Noldus Information Technology** `2021.10 -`
 
 ```
-Hiroshima, Japan
+Beijing, China
 ```
 
 _Technical Support Engineer_<br>
-Give pre-sale advice, diagnose and troubleshoot software and hardware problems and help customers install devices and programs.
+- Provide pre-sale advice, products presentatons and tutorials
+- Help customers install devices and programs
+- Diagnose and troubleshoot technical issues
+- Products customization
 
 ## Meetings
 
