@@ -23,6 +23,20 @@ Supported arguments:
 {% include cv-contact.html %}
 <center><font color = grey size = 3>Wechat: Qukoyk</font></center>
 
+## Experience
+
+### **Noldus Information Technology** `2021.10 -`
+
+```
+Beijing, China
+```
+
+_Technical Support Engineer_<br>
+- Provide pre-sale advice, products presentatons and tutorials
+- Help customers install devices and programs
+- Diagnose and troubleshoot technical issues
+- Products customization
+
 ## Education
 
 ### **Hiroshima University** `2019.4 - 2021.9.30`
@@ -65,20 +79,6 @@ Build from scratch
 _Bulletin of the Graduate School of Integrated Arts and Sciences, Hiroshima University. I, Studies in human sciences, 14, 1-12._<br>
 [[PDF](https://ir.lib.hiroshima-u.ac.jp/files/public/4/48878/20200327111706862738/StudiesInHumanSciences_14_1.pdf)]
 [[www](http://doi.org/10.15027/48878)]
-
-## Experience
-
-### **Noldus Information Technology** `2021.10 -`
-
-```
-Beijing, China
-```
-
-_Technical Support Engineer_<br>
-- Provide pre-sale advice, products presentatons and tutorials
-- Help customers install devices and programs
-- Diagnose and troubleshoot technical issues
-- Products customization
 
 ## Meetings
 
