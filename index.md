@@ -109,4 +109,4 @@ QTA, **Practicum in Behavioral Sciences** `2017 - 2021` <br>
 QTA, **Laboratory Work in Psychology A** `2017 - 2021` <br>
 Teaching Fellow `Graduate School of Integrated Arts and Sciences, 2020 - 2021` <br>
 **Skinner Box Programming with Python & Matlab** `Sakata Lab, 2018 - 2021`    
-Devices Building with Raspberry Pi & Arduino `Sakata Lab, 2019 - 2021`    
+Devices Building and Diagnosing `Sakata Lab, 2019 - 2021`    
