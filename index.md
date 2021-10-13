@@ -104,9 +104,9 @@ _The 78th Annual Meeting of the Japanese Society for Animal Psychology_<br>
 
 Qualified Teaching Assistant (QTA), **Communication Ⅰ A** `2017 - 2018` <br>
 QTA, **Communication Ⅱ A** `2017 - 2018` <br>
-QTA, **Fundamental Laboratory Work in Behavioral Sciences** `2017 - Now` <br>
+QTA, **Fundamental Laboratory Work in Behavioral Sciences** `2017 - 2021` <br>
 QTA, **Practicum in Behavioral Sciences** `2017 - 2021` <br>
 QTA, **Laboratory Work in Psychology A** `2017 - 2021` <br>
 Teaching Fellow `Graduate School of Integrated Arts and Sciences, 2020 - 2021` <br>
-**Skinner Box Programming with Python & Matlab** `Sakata Lab, 2018 - 2021`    
+**Skinner Box Programming with Python & Matlab** `Sakata Lab, 2018 - 2021` <br>
 Devices Building and Diagnosing `Sakata Lab, 2019 - 2021`    
