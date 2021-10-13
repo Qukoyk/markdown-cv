@@ -2,13 +2,13 @@
 layout: cv
 title: Ruoheng "Qukoyk" Qu
 email:
-  url: mailto:quruoheng@hiroshima-u.ac.jp
-  text: quruoheng@hiroshima-u.ac.jp
+  url: mailto:ruoheng.qu@noldus.nl
+  text: ruoheng.qu@noldus.nl
 homepage:
-  url: https://home.hiroshima-u.ac.jp/quruoheng
-  text: https://home.hiroshima-u.ac.jp/quruoheng
+  url: https://www.linkedin.com/in/qukoyk/
+  text: https://www.linkedin.com/in/qukoyk/
 phone:
-  (+86) 186-1819-8201
+  (+86) 133-8138-6785
 ---
 
 # Ruoheng **Qu**
