@@ -32,7 +32,7 @@ Beijing, China
 ```
 
 _Technical Support Engineer_<br>
-- Provide pre-sale advice, products presentatons and tutorials
+- Provide pre-sale advice, products presentations and tutorials
 - Help customers install devices and programs
 - Diagnose and troubleshoot technical issues
 - Products customization
