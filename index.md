@@ -39,7 +39,7 @@ _Technical Support Engineer_<br>
 
 ## Education
 
-### **Hiroshima University** `2019.4 - 2021.9.30`
+### **Hiroshima University** `2019.4 - 2021.9`
 
 ```
 Hiroshima, Japan
