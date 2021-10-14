@@ -60,7 +60,7 @@ Hiroshima, Japan
 
 ## Skills
 
-### **Behavioral experiment & animal-based Experiment devices building** 
+### **Behavioral experiment & animal-based experiment devices building** 
 
 ```
 Build from scratch
