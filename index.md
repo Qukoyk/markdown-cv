@@ -68,7 +68,7 @@ Build from scratch
 
 ### **EEG & ERP data analysis**
 ### **Python**, Matlab, Linux
-- [Online ERP Analysis with Google Colab](https://home.hiroshima-u.ac.jp/quruoheng/ja/2020/07/27/google-colab%e3%81%ab%e3%82%88%e3%82%8b%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e8%84%b3%e6%b3%a2%e5%88%86%e6%9e%90%e5%ae%9f%e7%bf%92/)
+- [Online ERP Analysis with Google Colab](https://github.com/Qukoyk/oddball/blob/master/CV_pr.ipynb)
 - [Degu Circadian Rhythm Recorder](https://github.com/Qukoyk/Degu)
 
 
