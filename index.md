@@ -32,11 +32,12 @@ Beijing, China
 ```
 
 _User Reasearcher / Consultant_<br>
-- By using Tobii Eye Trackers, and Noldus facial emotions analysis software etc. innovative neuron-marketing tools to get users ‘pain point or insights, combined with traditional market research methods.
+- By using Tobii Eye Trackers, and Noldus facial emotions analysis software etc. innovative neuron-marketing tools to get users' pain point or insights, combined with traditional market research methods.
 - Per clients’ requests, design the customized experiments to testify the hypothesis for user research, including participant screening, the draft of interview outline and questionnaires, etc.
 - Communicated with clients to confirm the use scenario, optimize the user journeys, and provides constructive suggestions. By implementing the interview, useability testing and focus groups to observe the user behaviors, analyze both qualitative and quantitative data to make the final draft. 
-- keep the career-related knowledgw up-to-dated, provide the insights of the newest jourinals to wechat's official accounts, deepen the understandings of new technology with clients.
+- Keep the career-related knowledgw up-to-dated, provide the insights of the newest jourinals to wechat's official accounts, deepen the understandings of new technology with clients.
 
+<br>
 
 ### **Positive Behavior Supports Corp.** `2019.09 - 2020.10`
 
@@ -71,6 +72,9 @@ Long Beach, CA
 ```
 Over 2 years
 ```
+- X3-120 & Eye Tracker Manager
+- Glasses 2 & Glasses 3
+- Pro Lab
 
 ### **Psychological experiments design and Behavior observation**
 ### **English**, Advanced business level
