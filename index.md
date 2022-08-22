@@ -75,24 +75,31 @@ Over 2 years
 ### **Psychological experiments design and Behavior observation**
 ### **English**, Advanced business level
 ### **Advanced statistics with SPSS**
-### Proficient in Microsoft office 
-- Word / PowerPoint / Excel
+### Proficient in Microsoft office
 
 
 
 ## Projects
 
-### **A short video APP interface optimization in eye-tracking** `2021.01`
+### **A short video APP with eye-tracking** `2021.01`
+
+_Interface Optimization_<br>
 - Participate in the discussion and determine the experiment design details and user selection criteria according to the requirements of the client. Completely executed 30 eye-movement experiments, independently completed eye-movement data cleaning, organizing, analyzing and summarizing. In the experiment, through flexible marking and refined **AOI area**, output insightful results, and wrote the report base with this, laying the foundation for the final report and acceptance success.
 
 ### **A traffice research institute** `2021.04`
+
+_Project Design & Data Analysis_<br>
 - According to the demand of client, participated in designing experiments for the effect of different tunnel lighting conditions on drivers' vision. During the experiment, independently completed the eye-movement **data collection** and subsequent output of **heat map**, **geze plot** to derive different visual strategies, and was the source of the data cited in the paper.
 
-### **Usability test for a well-known enterprise website with eye-tracking** `2022.03`
+### **A well-known enterprise website with eye-tracking** `2022.03`
+
+_Usability Test_<br>
 - According to the requirements of client , participated in the discussion and determined the details of the next experimental design and user selection conditions. Independently and completely executed the usability combined with eye movement experiment for 20 people. Independently completed all the data cleaning, organizing, analyzing and summarizing. By flexibly using different eye-movement metrics, such as **first look time**, **gaze duration** and **pupil diameter**, we measured users' attention and interest to different segments on the website. Independently conducted the report and successfully passed the acceptance test.
 
 
-### **Physiological data collection project of a foreign company for users' movie viewing experience** `2022.08`
+### **A foreign company for users' movie viewing experience** `2022.08`
+
+_Phsiological Data Collection_<br>
 - According to the requirements of the client, collected physiological data from 60 subjects on **EDA**, and completed the cleaning and sorting while facing the high standard and strict control of the client, we analyzed the data cautiously and responded promptly. Through in-depth interpretation of the data for the client, unnecessary losses were avoided.
 
 
