@@ -42,7 +42,7 @@ _User Reasearcher / Consultant_<br>
 ### **Positive Behavior Supports Corp.** `2019.09 - 2020.10`
 
 ```
-Beijing, China
+Los Angeles, CA
 ```
 
 _Behavioral Assistant_<br>
