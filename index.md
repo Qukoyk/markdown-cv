@@ -21,7 +21,7 @@ Supported arguments:
     - email
 -->
 {% include cv-contact.html %}
-<center><font color = grey size = 3>Wechat: Qukoyk</font></center>
+<center><font color = grey size = 3>Wechat: duduyanhan</font></center>
 
 ## Experience
 
@@ -31,11 +31,10 @@ Supported arguments:
 Beijing, China
 ```
 
-_User Experience Reasearcher / Consulting_<br>
-- Provide pre-sale advice, products presentations and tutorials
-- Help customers install devices and programs
-- Diagnose and troubleshoot technical issues
-- Products customization
+_User Reasearcher / Consultant_<br>
+- By using Tobii Eye Trackers, and Noldus facial emotions analysis software etc. innovative neuron-marketing tools to get users ‘pain point or insights, combined with traditional market research methods.
+- Per clients’ requests, design the customized experiments to testify the hypothesis for user research, including participant screening, the draft of interview outline and questionnaire, etc.
+- Communicated with clients to confirm the use scenario, optimize the user journeys, and provides constructive suggestions. By implementing the interview, useability testing and focus groups to observe the user behaviors, analyze both qualitative and quantitative data
 
 
 ### **Positive Behavior Supports Corp.** `2019.09 - 2020.10`
@@ -44,11 +43,12 @@ _User Experience Reasearcher / Consulting_<br>
 Beijing, China
 ```
 
-_User Experience Reasearcher / Consulting_<br>
-- Provide pre-sale advice, products presentations and tutorials
-- Help customers install devices and programs
-- Diagnose and troubleshoot technical issues
-- Products customization
+_Behavioral Assistant_<br>
+- Utilize cognitive behavioral therapy to improve the symptoms of children with autism through one-on-one positive reinforcement communication with the child.
+- Participate in the design of lesson plans with flexibility to adapt to the patient's condition.
+- Monitor and record the behavior of the child in the school environment and write daily behavior summaries. Sort out the logic of the affected child's behavior and surroundings, and discuss them in meetings to prepare for further behavioral intervention programs.
+- Maintain a positive learning environment by reaching out to children with autism and correcting problematic behaviors that are not in line with school or classroom rules in an approachable and friendly manner.
+
 
 ## Education
 
@@ -65,15 +65,41 @@ Long Beach, CA
 
 ## Skills
 
-### **Behavioral experiment & animal-based experiment devices building** 
+### **Eye-tracking & Data analysis with Tobii's products** 
 
 ```
-Build from scratch
+Over 2 years
 ```
 
-### **EEG & ERP data analysis**
-### **Python**, Matlab, Linux
-- [Online ERP Analysis with Google Colab](https://github.com/Qukoyk/oddball/blob/master/CV_pr.ipynb)
-- [Degu Circadian Rhythm Recorder](https://github.com/Qukoyk/Degu)
+### **Psychology experiments design and Behavior observation**
+### **English**, Advanced business level
+### **Advanced statistics with SPSS**
+### Microsoft office suit
+- Word / PowerPoint / Excel
+<!-- - [Online ERP Analysis with Google Colab](https://github.com/Qukoyk/oddball/blob/master/CV_pr.ipynb)
+- [Degu Circadian Rhythm Recorder](https://github.com/Qukoyk/Degu) -->
 
 
+## Projects
+
+### **A short video APP interface optimization in eye-tracking** `2021.01`
+- Participate in the discussion and determine the experiment design details and user selection criteria according to the requirements of the client. Completely executed 30 eye-movement experiments, independently completed eye-movement data cleaning, organizing, analyzing and summarizing. In the experiment, through flexible marking and refined **AOI area**, output insightful results, and wrote the report base with this, laying the foundation for the final report and acceptance success.
+
+### **A traffice research institute** `2021.04`
+- According to the demand of Party A, participated in designing experiments for the effect of different tunnel lighting conditions on drivers' vision. During the experiment, independently completed the eye-movement **data collection** and subsequent output of **heat map**, **geze plot** to derive different visual strategies, and was the source of the data cited in the paper.
+
+### **Usability test for a well-known enterprise website with eye-tracking** `2022.03`
+- According to the requirements of Party A, participated in the discussion and determined the details of the next experimental design and user selection conditions. Independently and completely executed the usability combined with eye movement experiment for 20 people. Independently completed all the data cleaning, organizing, analyzing and summarizing. By flexibly using different eye-movement metrics, such as **first look time**, **gaze duration** and **pupil diameter**, we measured users' attention and interest to different positions on the website. Independently output the report and successfully passed the acceptance test.
+
+
+### **Physiological data collection project of a foreign company for users' movie viewing experience** `2022.08`
+- According to the requirements of the client, we independently collected physiological data from 60 subjects on **EDA**, and completed the cleaning and sorting of the data. Facing the high standard and strict control of the client, we analyzed the data calmly and responded calmly. Through in-depth interpretation of the data for the client, unnecessary losses were avoided.
+
+
+## Self-evaluation
+- Experienced in using Tobii eye-tracking equipment and software
+- Familiar with common paradigms and analysis methods in psychology and consumer behavior, and have more experience in real-world projects. I am p
+- Proficient in experimental design, execution and moderating essentials, and data analysis.
+- Can use English as a working language and read English literature without obstacles.
+- Cheerful and optimistic, with a fine mind and keen insight
+- Good stress tolerance and ability to handle multi-task coordination.
