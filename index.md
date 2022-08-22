@@ -104,8 +104,8 @@ _Phsiological Data Collection_<br>
 
 
 ## Professional Summary 
-- Experienced in using Tobii eye-tracking equipments and softwares
-- Familiar with common paradigms and analysis methods in psychology and consumer behavior, and have more experiences in business projects. 
+- **Experienced in using Tobii eye-tracking equipments and softwares.**
+- **Familiar with common paradigms and analysis methods in psychology and consumer behavior, and have more experiences in business projects.**
 - Proficient in experimental design, execution and moderating essentials, and data analysis.
 - Ability to use English as a working language and read English literature without obstacles.
 - Cheerful and optimistic, with a open-ed mind and keen insipring.
