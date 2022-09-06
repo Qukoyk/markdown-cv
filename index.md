@@ -1,17 +1,17 @@
 ---
 layout: cv
-title: Yanhan "Cindy" Du
+title: Ruoheng "Qukoyk" Qu
 email:
-  url: mailto:duyanhan0827@gmail.com
-  text: duyanhan0827@gmail.com
+  url: mailto:ruoheng.qu@noldus.nl
+  text: ruoheng.qu@noldus.nl
 homepage:
-  url: https://www.linkedin.com/in/yanhandu/
-  text: https://www.linkedin.com/in/yanhandu/
+  url: https://www.linkedin.com/in/qukoyk/
+  text: https://www.linkedin.com/in/qukoyk/
 phone:
-  (+86) 189-2144-6780
+  (+86) 133-8138-6785
 ---
 
-# Yanhan 'Cindy' Du
+# Ruoheng **Qu**
 
 <!--
 include contact information from the front matter
@@ -21,96 +21,91 @@ Supported arguments:
     - email
 -->
 {% include cv-contact.html %}
-<center><font color = grey size = 3>Wechat: duduyanhan</font></center>
+<center><font color = grey size = 3>Wechat: Qukoyk</font></center>
 
 ## Experience
 
-### **Noldus Information Technology** `2021.01 -`
+### **Noldus Information Technology** `2021.10 -`
 
 ```
 Beijing, China
 ```
 
-_User Reasearcher / Consultant_<br>
-- By using Tobii Eye Trackers, and Noldus facial emotions analysis software etc. innovative neuron-marketing tools to get users' pain point or insights, combined with traditional market research methods.
-- Per clients’ requests, design the customized experiments to testify the hypothesis for user research, including participant screening, the draft of interview outline and questionnaires, etc.
-- Communicated with clients to confirm the use scenario, optimize the user journeys, and provides constructive suggestions. By implementing the interview, useability testing and focus groups to observe the user behaviors, analyze both qualitative and quantitative data to make the final draft. 
-- Keep the career-related knowledgw up-to-dated, provide the insights of the newest jourinals to wechat's official accounts, deepen the understandings of new technology with clients.
-
-<br>
-
-### **Positive Behavior Supports Corp.** `2019.09 - 2020.10`
-
-```
-Los Angeles, CA
-```
-
-_Behavioral Assistant_<br>
-- Utilize cognitive behavioral intervention to improve the symptoms of children with autism through one-on-one positive reinforcement communication with the child.
-- Participate in the design of lesson plans with flexibility to adapt to the patient's condition.
-- Monitor and record the behavior of the child in the school environment and write daily behavior summaries. Sort out the logic of the affected child's behavior and surroundings, and discuss them in meetings to prepare for further behavioral intervention programs.
-- Maintain a positive learning environment by reaching out to children with autism and correcting problematic behaviors that are not in line with school or classroom rules in an approachable and friendly manner.
-
+_Technical Support Engineer_<br>
+- Provide pre-sale advice, products presentations and tutorials
+- Help customers install devices and programs
+- Diagnose and troubleshoot technical issues
+- Products customization
 
 ## Education
 
-### **California State University** `2019.4 - 2021.9`
+### **Hiroshima University** `2019.4 - 2021.9`
 
 ```
-Long Beach, CA
+Hiroshima, Japan
 ```
 
-- B.A. in Psychology
-- Cumulative **GPA**: 3.6, Advanced Statistics, Research Methods 
-- Dean Honor List 2017
+- Ph.D. Student in Arts and Sciences (Physiological Psychology), **Quit**
+- Risky Decision-Making, Feedback-Related Negativity(FRN), Rodents Pose-Estimation
+- Co-Advised by [Shogo Sakata](https://seeds.office.hiroshima-u.ac.jp/profile/en.33c6d814e460c277520e17560c007669.html), [Takeshi Yamazaki](https://seeds.office.hiroshima-u.ac.jp/profile/en.56cdb48fbf8dc6cd520e17560c007669.html), [Yasuhiro Ishihara](https://seeds.office.hiroshima-u.ac.jp/profile/en.6f1fa9a7faea635c520e17560c007669.html) and [Atsunori Ariga](https://seeds.office.hiroshima-u.ac.jp/profile/en.f6a0937964e815d9520e17560c007669.html)
 
+### **Hiroshima University** `2017.4 - 2019.3`
+
+```
+Hiroshima, Japan
+```
+
+- Master of Arts and Sciences (Physiological Psychology)
+- Risky Decision-Making, semi-Gambling & Gambling-like Activities
 
 ## Skills
 
-### **Eye-tracking & Data analysis with Tobii's products** 
+### **Behavioral experiment & animal-based experiment devices building** 
 
 ```
-Over 2 years
+Build from scratch
 ```
-- X3-120 & Eye Tracker Manager
-- Glasses 2 & Glasses 3
-- Pro Lab
 
-### **Psychological experiments design and Behavior observation**
-### **English**, Advanced business level
-### **Advanced statistics with SPSS**
-### Proficient in Microsoft office
+### **EEG & ERP data analysis**
+### **Python**, Matlab, Linux
+- [Online ERP Analysis with Google Colab](https://github.com/Qukoyk/oddball/blob/master/CV_pr.ipynb)
+- [Degu Circadian Rhythm Recorder](https://github.com/Qukoyk/Degu)
 
 
+## Publications
 
-## Projects
+### [**The Effects of Minimum Rewards’ Experience Order in Rats Gambling Task**](https://ir.lib.hiroshima-u.ac.jp/files/public/4/48878/20200327111706862738/StudiesInHumanSciences_14_1.pdf)
+**Ruoheng Qu** & Shogo Sakata.<br> 
+_Bulletin of the Graduate School of Integrated Arts and Sciences, Hiroshima University. I, Studies in human sciences, 14, 1-12._<br>
+[[PDF](https://ir.lib.hiroshima-u.ac.jp/files/public/4/48878/20200327111706862738/StudiesInHumanSciences_14_1.pdf)]
+[[www](http://doi.org/10.15027/48878)]
 
-### **A short video APP with eye-tracking** `2021.01`
+## Meetings
 
-_Interface Optimization_<br>
-- Participate in the discussion and determine the experiment design details and user selection criteria according to the requirements of the client. Completely executed 30 eye-movement experiments, independently completed eye-movement data cleaning, organizing, analyzing and summarizing. In the experiment, through flexible marking and refined **AOI area**, output insightful results, and wrote the report base with this, laying the foundation for the final report and acceptance success.
+### [Reserved] **A marker-less rodent pose estimation tool after DeepLabCut**
 
-### **A traffice research institute** `2021.04`
-
-_Project Design & Data Analysis_<br>
-- According to the demand of client, participated in designing experiments for the effect of different tunnel lighting conditions on drivers' vision. During the experiment, independently completed the eye-movement **data collection** and subsequent output of **heat map**, **geze plot** to derive different visual strategies, and was the source of the data cited in the paper.
-
-### **A well-known enterprise website with eye-tracking** `2022.03`
-
-_Usability Test_<br>
-- According to the requirements of client , participated in the discussion and determined the details of the next experimental design and user selection conditions. Independently and completely executed the usability combined with eye movement experiment for 20 people. Independently completed all the data cleaning, organizing, analyzing and summarizing. By flexibly using different eye-movement metrics, such as **first look time**, **gaze duration** and **pupil diameter**, we measured users' attention and interest to different segments on the website. Independently conducted the report and successfully passed the acceptance test.
+**Ruoheng Qu**, Yue Nan, Yuto Kimura, Shogo Sakata. (2020) [Delayed to 2021]<br>
+_20th Biennial Meeting of the International Society for Comparative Psychology_<br>
 
 
-### **A foreign company for users' movie viewing experience** `2022.08`
+### [**Existence of minimum rewards in rats gambling task**](https://doi.org/10.2502/janip.69.3.4)
 
-_Phsiological Data Collection_<br>
-- According to the requirements of the client, collected physiological data from 60 subjects on **EDA**, and completed the cleaning and sorting while facing the high standard and strict control of the client, we analyzed the data cautiously and responded promptly. Through in-depth interpretation of the data for the client, unnecessary losses were avoided.
+**Ruoheng Qu** & Shogo Sakata. (2019)<br>
+_The 79th Annual Meeting of the Japanese Society for Animal Psychology_<br>
+[[PDF](https://www.jstage.jst.go.jp/article/janip/69/3/69_69.3.4/_pdf/-char/en)]
 
+### [**A preliminary study of experience order in rats semi-gambling task**](https://doi.org/10.2502/janip.68.2.5)
 
-## Professional Summary 
-- **Experienced in using Tobii eye-tracking equipments and softwares.**
-- **Familiar with common paradigms and analysis methods in psychology and consumer behavior, and have more experiences in business projects.**
-- Proficient in experimental design, execution and moderating essentials, and data analysis.
-- Ability to use English as a working language and read English literature without obstacles.
-- Cheerful and optimistic, with a open-ed mind and keen insipring.
-- Good stress tolerance and ability to handle multi-tasking. 
+**Ruoheng Qu** & Shogo Sakata. (2018)<br>
+_The 78th Annual Meeting of the Japanese Society for Animal Psychology_<br>
+[[PDF](https://www.jstage.jst.go.jp/article/janip/68/2/68_68.2.5/_pdf/-char/en)]
+
+## Teaching
+
+Qualified Teaching Assistant (QTA), **Communication Ⅰ A** `2017 - 2018` <br>
+QTA, **Communication Ⅱ A** `2017 - 2018` <br>
+QTA, **Fundamental Laboratory Work in Behavioral Sciences** `2017 - 2021` <br>
+QTA, **Practicum in Behavioral Sciences** `2017 - 2021` <br>
+QTA, **Laboratory Work in Psychology A** `2017 - 2021` <br>
+Teaching Fellow `Graduate School of Integrated Arts and Sciences, 2020 - 2021` <br>
+**Skinner Box Programming with Python & Matlab** `Sakata Lab, 2018 - 2021` <br>
