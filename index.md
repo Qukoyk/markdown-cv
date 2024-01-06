@@ -2,13 +2,13 @@
 layout: cv
 title: Ruoheng "Qukoyk" Qu
 email:
-  url: mailto:ruoheng.qu@noldus.nl
-  text: ruoheng.qu@noldus.nl
+  url: mailto:ruoheng.qu@noldus.com
+  text: ruoheng.qu@noldus.com
 homepage:
   url: https://www.linkedin.com/in/qukoyk/
   text: https://www.linkedin.com/in/qukoyk/
 phone:
-  (+86) 133-8138-6785
+  (+86) 186-1819-8201
 ---
 
 # Ruoheng **Qu**
@@ -31,11 +31,11 @@ Supported arguments:
 Beijing, China
 ```
 
-_Technical Support Engineer_<br>
+_Technical Engineer_<br>
+- Products and scipts customization
 - Provide pre-sale advice, products presentations and tutorials
 - Help customers install devices and programs
 - Diagnose and troubleshoot technical issues
-- Products customization
 
 ## Education
 
