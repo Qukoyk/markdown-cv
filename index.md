@@ -32,7 +32,7 @@ Beijing, China
 ```
 
 _Technical Engineer_<br>
-- Products and scipts customization
+- Products and scripts customization
 - Provide pre-sale advice, products presentations and tutorials
 - Help customers install devices and programs
 - Diagnose and troubleshoot technical issues
