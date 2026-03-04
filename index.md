@@ -25,12 +25,12 @@ Supported arguments:
 
 ## Experience
 
-### **Noldus Information Technology** `2021.10 -`
+### **Noldus Information Technology** `2021.10 - Present`
 
 ```
 Beijing, China
 ```
-_Product Strategist_<br> `2026.3 -`
+_Product Strategist_<br>
 - Conducted market research and competitor analysis
 - Defined product requirements and wrote PRDs
 - Planned product roadmap and release schedules
