@@ -30,15 +30,15 @@ Supported arguments:
 ```
 Beijing, China
 ```
-_Product Strategist_<br>
+_Product Strategist_ `2026.3 - Present` <br>
 - Conducted market research and competitor analysis
 - Defined product requirements and wrote PRDs
 - Planned product roadmap and release schedules
 - Collaborated with development teams
 - Analyzed user feedback and usage data
-- Coordinated cross-functional communication across teams 
-<br>
-_Technical Engineer_ `2021.10 - 2026.2` <br> 
+- Coordinated cross-functional communication across teams <br>
+
+_Technical Engineer_ `2021.10 - 2026.2`  <br> 
 - Products and scripts customization
 - Provide pre-sale advice, products presentations and tutorials
 - Help customers install devices and programs
