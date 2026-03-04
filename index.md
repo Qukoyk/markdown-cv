@@ -37,8 +37,8 @@ _Product Strategist_<br>
 - Collaborated with development teams
 - Analyzed user feedback and usage data
 - Coordinated cross-functional communication across teams 
-
-_Technical Engineer_<br> `2021.10 - 2026.2`
+<br>
+_Technical Engineer_ `2021.10 - 2026.2` <br> 
 - Products and scripts customization
 - Provide pre-sale advice, products presentations and tutorials
 - Help customers install devices and programs
